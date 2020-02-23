@@ -9,4 +9,4 @@
 
 *실행영상*
 
-![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jUO2i69-V1Y/0.jpg)](https://www.youtube.com/watch?v=jUO2i69-V1Y)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jUO2i69-V1Y/0.jpg)](https://www.youtube.com/watch?v=jUO2i69-V1Y)
