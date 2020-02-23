@@ -8,4 +8,5 @@
 - 게임스코어 측정 요소: 소요시간, 보유한 코인, 야생성
 
 *실행영상*
-<iframe width="640" height="360" src="https://youtu.be/jUO2i69-V1Y" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
+[![Video Label](https://img.youtube.com/vi/jUO2i69-V1Y/0.jpg)](https://youtu.be/jUO2i69-V1Y)
